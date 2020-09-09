@@ -1,0 +1,104 @@
+.neworder {
+    margin-top: 20px;
+    padding: 10px;
+    border: thin dotted white;
+}
+
+.neworder p {
+    font-weight: bold; 
+    font-size: medium;
+}
+
+.neworder span {
+    margin-top: 5px;
+    font-weight: normal; 
+    font-size: medium;
+    color: black;
+}
+
+.assigneduser {
+    margin-top: 10px;
+}
+
+.assigneduser p {
+    font-weight: bold;
+    font-size: medium;
+}
+
+.assigneduser ul {
+    list-style-type: none
+}
+
+.assigneduser ul li {
+    font-weight: normal;
+    font-size: medium;
+    color: black
+}
+
+.create {
+    margin-top: 20px;
+}
+
+.create p {
+    font-size: medium;
+    font-weight: bold;
+}
+
+.create button {
+    color: white;
+    font-weight: bold;
+    font-size: medium;
+    padding: 5px;
+    background: green;
+}
+
+
+.cancel {
+    margin-top: 10px;
+}
+
+.cancel p {
+    font-size: medium;
+    font-weight: bold;
+}
+
+.cancel button {
+    color: white;
+    font-weight: bold;
+    font-size: medium;
+    padding: 5px;
+    background: red;
+}
+
+.user {
+    margin-top: 10px;
+}
+
+.user label {
+    margin-right: 10px;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.user select {
+    font-size: medium;
+    font-weight: normal;
+    padding: 2px;
+}
+
+.ordername {
+    margin-top: 10px;
+}
+
+.ordername label {
+    font-size: medium;
+    font-weight: bold;
+}
+
+.ordername input {
+    margin-left: 10px;
+}
+
+
+
+

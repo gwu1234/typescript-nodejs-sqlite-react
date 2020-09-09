@@ -1,0 +1,54 @@
+.margintop {
+   margin-top: 30px
+}
+
+ul.orderlist{
+  list-style-type: none; 
+  padding: 0; 
+  margin: 0; 
+}
+
+.orderlist li  {
+   color: white;
+   font-weight: bold;
+   font-size: medium;
+}
+
+.buttongreen {
+  font-size: large;
+  font-weight: bold;
+  padding: 5px;
+  background: green;
+  color: white;
+}
+
+.buttonred {
+  font-size: large;
+  font-weight: bold;
+  padding: 5px;
+  background: red;
+  color: white;
+}
+                          
+
+.tooltip {
+  position: relative;
+  padding: 0; 
+  margin: 0; 
+}
+
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 300px;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+}

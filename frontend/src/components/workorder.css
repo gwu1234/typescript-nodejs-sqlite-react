@@ -1,0 +1,33 @@
+*{
+  margin:0;
+  padding:0;
+}
+
+#wrapper{
+  display:-webkit-flex;
+  -webkit-justify-content:center;
+  display:flex;
+  justify-content:center;
+  border:thin dotted white;
+}
+
+#c1 {
+  -webkit-flex:1;
+  flex:1; 
+}
+
+#c2 {
+  -webkit-flex:1;
+  flex:3; 
+}
+
+#c3 {
+  -webkit-flex:1;
+  flex:1; 
+}
+
+#c4 {
+  -webkit-flex:1;
+  flex:1; 
+}
+

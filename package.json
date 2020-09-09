@@ -1,0 +1,12 @@
+{
+  "name": "take-home-project",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "concurrently \"yarn --cwd frontend start\" \"yarn --cwd backend start\"",
+    "install": "yarn --cwd frontend install && yarn --cwd backend install"
+  },
+  "devDependencies": {
+    "concurrently": "^5.1.0"
+  }
+}

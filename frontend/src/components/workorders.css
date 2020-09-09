@@ -1,0 +1,23 @@
+#container {
+  width: 100vw; 
+  height: 100vh;
+  margin: 10px;
+  overflow: scroll;
+}
+
+#order {
+  margin-top: 30px;
+  margin-left: 50px;
+  margin-right:50px
+}
+
+.links {
+  margin: 20px;
+}
+
+span {
+  display: block;
+}
+
+
+
